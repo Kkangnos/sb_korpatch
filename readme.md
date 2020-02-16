@@ -10,10 +10,8 @@
 
 ## 적용방법
 아래 목록에서 폰트를 설치하셔야 합니다.<br/>
-[기본 폰트](https://drive.google.com/file/d/0B5jqW_3JCyKgVlM0TmVTMFpIRW8/view)  by SunghyunKim, Kibmer<br/>
-[빙그레체](http://drive.google.com/file/d/1OvYKL0CX7hl3kfzdZGTCkZ8Yyl-SzIoz/view) by Elin, [빙그레](http://bingfont.co.kr/)<br/>
-[a서커스유랑단](http://drive.google.com/file/d/1SKfZUitGe9qLFm0IzB0VLsTrfs0mFhU8/view) by Elin, [아시아폰트](http://asiafont.com/asfont/m_view.php?ps_db=sample&ps_boid=145&ps_page=1&ps_sele=subject&ps_ques=%BC%AD%C4%BF%BD%BA&ps_line=&ps_choi=&ps_divi=)<br/>
-[a예감좋은날](http://drive.google.com/file/d/1m9DQSQIl-vrFQ3057Y4Go9d5fkChNCbe/view) by Elin, [아시아폰트](http://asiafont.com/asfont/m_view.php?ps_db=sample&ps_boid=149&ps_page=1&ps_sele=subject&ps_ques=%BF%B9%B0%A8&ps_line=&ps_choi=&ps_divi=)<br/>
+[기본 폰트](https://drive.google.com/open?id=1Taqzv-eL67nqzVaNuU3XHmoR9PxhbA77)  by SunghyunKim, Kibmer,Blue-ON<br/>
+[둥근모꼴+fixedsys](https://drive.google.com/open?id=1338HI3Klvt-JeEY1Ep1aZ1D_6uX4f3hg) by 김중태 IT문화원 원장, Darien Gavin Valentine,[CACTUS](https://cactus.tistory.com/193),Blue-ON<br/>
 1.폰트 패치를 위 링크에서 하나를 선택하여 받습니다.<br/>
 2.아무 곳에 압축해제합니다.<br/>
 3.스팀 라이브러리에서 Starbound 우클릭 - 속성 - 로컬 파일 탭 - 로컬 콘텐츠 폴더 보기... 버튼 클릭후 mods 폴더에 들어갑니다.<br/>
